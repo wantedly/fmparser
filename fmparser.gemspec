@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{FieldMask parameter parser}
   spec.description   = %q{FieldMask parameter parser}
-  spec.homepage      = "https://github.com/south37/fmparser"
+  spec.homepage      = "https://github.com/wantedly/fmparser"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
