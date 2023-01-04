@@ -18,6 +18,9 @@ Or install it yourself as:
 
     $ gem install fmparser
 
+## Requirements
+- Ruby 2.7 or higher
+
 ## Usage
 
 `FMParser.parse` parses FieldMask parameter and returns a `FMParser::MessageNode` object.
